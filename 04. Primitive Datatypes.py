@@ -1,4 +1,4 @@
-# #we have some data type
+# #we have some data type in python
 
 # string
 name = "Bittu"
