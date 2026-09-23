@@ -1,4 +1,4 @@
-a = 1
+a = 8
 print(a)
 b = 3.4
 print(b)
@@ -13,6 +13,8 @@ print(f)
 print(a + b)
 print(a - b)
 print(a * b)
+print(a / b)
+print(a // b)
 print(e + f)
 g = "hello"
 h = "world"
